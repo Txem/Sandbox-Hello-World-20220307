@@ -1,8 +1,3 @@
-/* Note: 
- Fix rectangle drawing bug, population bug
- Add liseners: keyboard and mouse
- */
-
 //Global Variables
 int x = width*1/4, y = height*1/4, rectWidth = width*1/2, rectHeight = height*1/2;
 int backgroundBlue;
